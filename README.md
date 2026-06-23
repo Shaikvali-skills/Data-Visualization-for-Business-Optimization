@@ -20,13 +20,13 @@ The **Insigh BI** dashboard was engineered to solve a common enterprise problem:
 ## 📊 Dashboard Architecture & Metrics
 
 ### Page 1: Operational Efficiency & Supply Metrics
-As visualized in `image_174dff.jpg` and `image_175127.jpg`, this view focuses on supply chain constraints:
+As visualized in `Screenshot 2026-06-23 155039.png`, this view focuses on supply chain constraints:
 * **Average Demand per Day:** 48.65 units
 * **Average Availability per Day:** 24.70 units
 * **Total Supply Shortage:** 61K units
 
 ### Page 2: Financial Performance & Impact Analysis
-As visualized in `image_174de7.jpg`, this view tracks the financial damage driven by fulfillment gaps:
+As visualized in `Screenshot 2026-06-23 155053.png`, this view tracks the financial damage driven by fulfillment gaps:
 * **Total Profit:** 301K
 * **Total Loss:** 8M
 * **Average Daily Loss:** 2.97K
